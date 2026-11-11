@@ -1,2 +1,2 @@
-deployment_window=weekday
+deployment_window=evening
 approval_required=yes
