@@ -1,0 +1,17 @@
+# Environment and credential files
+.env
+.env.*
+!.env.example
+credentials.json
+*.pem
+*.key
+
+# Temporary files
+*.log
+*.tmp
+
+# Editor files
+.vscode/
+
+# Local scanner reports
+gitleaks-report.json

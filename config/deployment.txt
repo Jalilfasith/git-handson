@@ -1,0 +1,2 @@
+deployment_window=weekday
+approval_required=yes
